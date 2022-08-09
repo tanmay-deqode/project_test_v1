@@ -48,7 +48,7 @@ data "archive_file" "zip_file" {
 
 
 resource "aws_lambda_function" "testing_data_v1" {
-  filename      = "${path.module}/python/app.zip"
+  filename      = "${path.module}/python/App.zip"
   function_name = "aws_lambda_function_test_v1"
   role          = aws_iam_role.aws_iam_role_test_v1.arn
   handler       = "app.lambda_helper"

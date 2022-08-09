@@ -1,7 +1,15 @@
+import boto3
+
+from boto3 import ServiceResource
+
+
 class DynamoDBClient:
+    
+    def initialize_db() -> ServiceResource:
 
-    def __init__(self):
-        self.client = boto3.client('dynamodb', region_name='us-east-1')
-
-    def connect():
-        print("hh")
+        db = boto3.resource('dynamodb',
+                            region_name='us-east-1',
+                            aws_access_key_id=None,
+                            aws_secret_access_key=None
+                            )
+        return db
