@@ -1,0 +1,7 @@
+- Create a function in python extract data from api source. The extract function should be triggered twice a day by a message published in the pub/sub topic.
+- Create a function to load data into a data warehouse (GCP Big query). Duplication of data should be handled.
+- Do Transformtions on this data like normalize the data if we are getting nested json
+- deploy these functions on GCP using cloud functions service.
+- Create terraform files to deploy the cloud functions
+- Create a CI pipeline. This pipeline should be triggered on a code push in feature branch.
+    - Merging the code to master branch should push a tag in git.
