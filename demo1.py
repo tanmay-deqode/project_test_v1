@@ -13,4 +13,4 @@ df = pd.read_json(x)
 # df = spark.read.option("header", "true").option(
 #     "inferschema", "true").csv(x)
 
-json_normalize(df)
+x1 = pd.json_normalize(df, max_level=1)
