@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rugged-reality-360906",
+  "private_key_id": "20432e567e30106ac83c6c9a6775c57419c620a9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6kQjQVSbkZ2aL\nUktdKSerN7yQaERGyD98Thr/u/LhGm+oAzEkUmC9DKIYUh5Sp3YHRrHvUqdakJ/c\nRyz5K8+Put9dFDwsoov7jZrfgaQbkP6TTw9RsQkMjdIc6YEbVwsKLUHMKQiRmpe9\n+VX73gNRGdY6xV/spWTr8059/6ucY3Qo5wb9PdZdYJFCWlzIW6x4zVuDRoYKKCJn\nvJ+Mcdro7U6rm7H2GwO6F3DuUras5YF6y4ezoKqtUse3X9Q24Z5EDP7ABxEI7hOk\n6b8R/VGiCJCKCbMFSR+oXEZwSB6PSe8d9aRH2lpVKP31sbPWJSGeVutoOkxRB2rT\nkUo8DwLTAgMBAAECggEAJ21jKXP1Ziub9jGMD8IUyhBbX0FJvJOxJvnyprz3lS7b\nDeyuw/hMzWcQEoe4NMuDHAKKtAMJrxAFWK4KCRaDJOLfNXKDTQOFBcJlSnrBTboU\nstjwadk6ClcmYknOqRJ6GMp7r0O0teCv1MwOqc2/cbI+Hel8XiyN6XdfzSzs/X2B\nsHpNHkapuEXmrJdn4gxT/45w1cV5GrwOL/s+94I6WoxWmS4/q9d1JaZHgcQAHujv\nC0Eel47dUxggNHa4tO90+ulh9k6dA3i9nOzREfc3I76lbbeAUR3jNGT52geZb+5V\nY5qUYQ7deqgirVHD1dSX423ZdOC4MObLB9kkgyZo8QKBgQD+HZa6GR6uT5cLjuTj\n/HoIeuCuaORXVtClUxkEEwaC/eYwv2b2iCy0wBnEswY3VCNI0SyFFLqXCwXTDyGx\nMJaqq1+0hSkyF4kdS7BEfOWmDVNhRY0dC4Y+chKYm+oi7dLb3DMzxWyIC1SGdcuw\n8QG0WZ+8lb71PhD9G1PbzdspNwKBgQC78zYGH+b3RsLZwYrBoetcuH3NquJCNy70\nhZ9NMzue9I14+4gm7eQ8LTOWRaio2CqLZHOv6W9ugDoKkWqpORVGusEWoQjEB256\n2KTCNgG6YxnvtrL25JyvtRVBKdidL/qnuDQ5zeTF4Et6PspgD4g+D3y4jLiJ39r2\nhkstNuHRRQKBgHgTkz2s0QqdIUqc4xu4GhIXvkOr3PpIU59LfO6n7tPHFhbC2uxz\nvGxMueBwl+ddIq8t6FOaT/E/jCkHZWxNAWT0Re0PX0AETw5AzbIPMpUchuHX865d\n27l2PcNPKXwH1TN/AdLc30QJ1o8S6oVZ3OxTzV9Xgzxvb6eqWh3rUDxRAoGADnrR\nSa2BhMFt14rinsJTuKP6BTNKFSHdOzdkK3Vr/XYHxC9UsPMY503wMH6TXNayiGSn\nyQCp9hBo6FGFrx3XtshCgfTMERYle89e+hthDLP/1ojzxrOcIqlHxuprZsjAfdVi\nKKXlHx2FkxhtTPNFYsqcqDcnLHATlXSJLCWTRiUCgYEAytbiy4yWwqweg7F6d7uc\nZVtRBwoi/OGuxuX9MQIckliwtEQSeceWjtFaV/HDAQJL9fEts8vQC1X10l/9mh/U\nGnKUI1gL1M80k/AcyuXEzWj76rbslv/kVu7W6VCsFKED30ruxlDw1ebElt9zjTZj\ni31zvSBHCHSlIZ4qhsTgnmk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "demo-data@rugged-reality-360906.iam.gserviceaccount.com",
+  "client_id": "118362255386591509537",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/demo-data%40rugged-reality-360906.iam.gserviceaccount.com"
+}
