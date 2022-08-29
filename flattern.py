@@ -39,24 +39,3 @@ class Flatten:
                 df_col_name, df_col_name.replace(qualify, ""))
 
         return df
-
-
-# # if __name__ == "__main__":
-# spark = SparkSession \
-#     .builder \
-#     .appName("DET- Problem Statement") \
-#     .master("local[*]") \
-#     .getOrCreate()
-
-
-# df = spark.read.option("multiline", "true").json("data/testData.json")
-
-# # obj = Flatten
-
-# x = flatten_df(df)
-
-# x.printSchema()
-
-# x.show()
-
-# x.write.format("csv").option("header", "true").save("testData")

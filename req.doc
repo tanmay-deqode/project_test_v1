@@ -4,4 +4,9 @@
 - deploy these functions on GCP using cloud functions service.
 - Create terraform files to deploy the cloud functions
 - Create a CI pipeline. This pipeline should be triggered on a code push in feature branch.
-    - Merging the code to master branch should push a tag in git.
+    - Merging the code to master branch shoul 
+
+
+
+
+https://console.cloud.google.com/storage/browser/dlt_data/app.zip
